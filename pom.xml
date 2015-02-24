@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>imagemin-optipng</artifactId>
-    <version>4.0.0-SNAPSHOT</version>
+    <version>4.0.0</version>
     <name>imagemin-optipng</name>
     <description>WebJar for imagemin-optipng</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/imagemin-optipng</url>
         <connection>scm:git:https://github.com/webjars/imagemin-optipng.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/imagemin-optipng.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>imagemin-optipng-4.0.0</tag>
     </scm>
 
     <developers>
